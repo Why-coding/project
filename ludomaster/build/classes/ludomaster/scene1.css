@@ -1,0 +1,19 @@
+
+/* 
+    Created on : May 23, 2016, 9:53:22 PM
+    Author     : DELL
+*/
+.button
+{
+     -fx-text-fill: yellow;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-font-size: 18px;
+    -fx-background-color:linear-gradient(#34f9a4,#7a4063) ;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+.root
+{
+    -fx-background-image: url("ludo_big.gif");
+}
+

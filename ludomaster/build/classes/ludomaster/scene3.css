@@ -1,0 +1,28 @@
+
+/* 
+    Created on : May 23, 2016, 10:00:50 PM
+    Author     : DELL
+*/
+.button
+{
+    -fx-text-fill: blanchedalmond;
+    -fx-font-family: "Times New Roman";
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+    -fx-background-color: linear-gradient(#34f9a4,#7a4063);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+.label
+{
+    -fx-text-fill: blanchedalmond;
+    -fx-font-family: "Times New Roman";
+    -fx-font-weight: bold;
+    -fx-font-size: 32px;
+    -fx-background-color: linear-gradient(#34f9a4,#7a4063);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+.root
+{
+    -fx-background-image: url("39206-ckachat-ilomilo-for-pc-for-free.jpg");
+}
+
